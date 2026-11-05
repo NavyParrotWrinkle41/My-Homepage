@@ -14,6 +14,7 @@ Welcome to my personal website! I'm John Smith, a researcher specializing in Lar
 - **December 2025**: I've accepted an invitation to serve as a reviewer for LCFM 2025 (Long Context Foundation Models).
 - **December 2025**: My publication metrics have updated to 127 total citations (+3 this week), h-index: 8, i10-index: 6.
 - **November 2025**: Open-sourced code for "Ipsum Lorem is all you need" at [github.com/NavyParrotWrinkle41/ipsum-lorem-all-you-need](https://github.com/NavyParrotWrinkle41/ipsum-lorem-all-you-need).
+- **November 2025**: Open-sourced code for "Adaptive Learning Strategies for Large Language Models in Dynamic Environments" at [github.com/NavyParrotWrinkle41/llm-adaptive-learning](https://github.com/NavyParrotWrinkle41/llm-adaptive-learning).
 - **November 2025**: My workshop paper "Ipsum Lorem is all you need for a workshop" has been accepted at COMLW 2025 (COML Workshop on Large Language Models).
 - **November 2025**: My paper "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments" has been accepted at COAI 2025 (Conference on Artificial Intelligence).
 
